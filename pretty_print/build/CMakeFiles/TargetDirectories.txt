@@ -1,3 +1,0 @@
-/home/jeremy/projects/hacker-rank-cpp-track/pretty_print/build/CMakeFiles/rebuild_cache.dir
-/home/jeremy/projects/hacker-rank-cpp-track/pretty_print/build/CMakeFiles/edit_cache.dir
-/home/jeremy/projects/hacker-rank-cpp-track/pretty_print/build/CMakeFiles/pretty_print.dir
