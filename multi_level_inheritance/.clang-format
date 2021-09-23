@@ -1,0 +1,13 @@
+﻿---
+BasedOnStyle: Google
+ColumnLimit: '81'
+IndentCaseLabels: 'true'
+IndentWidth: '4'
+NamespaceIndentation: All
+SortIncludes: 'true'
+SortUsingDeclarations: 'true'
+Standard: Cpp11
+TabWidth: '4'
+UseTab: Never
+
+...
