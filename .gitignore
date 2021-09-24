@@ -38,4 +38,5 @@ cmake-build-debug/*
 */cmake-build-debug/*
 .ccls-cache/*
 */.ccls-cache/*
-
+build/*
+*/build/*
